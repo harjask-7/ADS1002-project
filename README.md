@@ -32,7 +32,7 @@
         <ul>
           <li>Does wind speed influence electricity demand directly or indirectly (through temperature/wind chill)?</li>
         </ul>
-      <li>Biba: </li>
+      <li>Biba & Elof: </li>
         <ul>
           <li>What is the relationship between demand and electricity spot prices (RRP)?</li>
         </ul>
