@@ -1,7 +1,9 @@
 # ADS1002-project
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <p>This project analyses the relationship between electricity demand and weather variables across Australian states using 20 years of data. Our goals are to identify key drivers of demand, explore extreme weather effects, and investigate demand–price relationships.</p>
+    <p>This project analyses the relationship between electricity demand and weather variables across Australian states using 20 years of data. Our goals are to identify key drivers of demand, explore extreme weather effects, and investigate demand–price relationships.
+    https://docs.google.com/document/d/1hWCTJQosssMUyQ258MsTiu8ROZ05oefblSVQ0v5UlSs/edit?usp=sharing
+    </p>
   </div>
 </div>
 
