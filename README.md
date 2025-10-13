@@ -6,8 +6,7 @@
     https://docs.google.com/document/d/1hWCTJQosssMUyQ258MsTiu8ROZ05oefblSVQ0v5UlSs/edit?usp=sharing
 
     Final Presentation Slides: 
-    https://www.canva.com/design/DAGzwB2ujKI/6Av74lAXEhmzO1b5UzYmNw/edit?utm_content=DAGzwB2ujKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
-    
+    https://www.canva.com/design/DAGzwB2ujKI/6Av74lAXEhmzO1b5UzYmNw/edit?utm_content=DAGzwB2ujKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
     </p>
   </div>
 </div>
