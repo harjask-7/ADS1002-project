@@ -2,7 +2,10 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <p>This project analyses the relationship between electricity demand and weather variables across Australian states using 20 years of data. Our goals are to identify key drivers of demand, explore extreme weather effects, and investigate demand–price relationships.
+    Research Question Doc:
     https://docs.google.com/document/d/1hWCTJQosssMUyQ258MsTiu8ROZ05oefblSVQ0v5UlSs/edit?usp=sharing
+
+    Final Presentation Slides: 
     https://www.canva.com/design/DAGzwB2ujKI/6Av74lAXEhmzO1b5UzYmNw/edit?utm_content=DAGzwB2ujKI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
     </p>
   </div>
